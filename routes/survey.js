@@ -13,7 +13,7 @@ router.post('/', (req, res, next) => {
 
 
 
-  res.redirect(`/result${._id}`, { info });
+  //res.redirect(`/result${._id}`, { info });
 });
 
 router.get('/result/:id', (req, res, next) => {

@@ -46,21 +46,63 @@
     <option value="Turkey">Turkey</option>
   </select>
 
-  <label for="Age Group">Age</label>
-  <select name="age" id="Age Group">
+  <label for="Age">Age</label>
+  <select name="Age" id="Age">
     <option value="From 18 to 24">18-24</option>
     <option value="From 25 to 49">25-49</option>
     <option value="From 50 to 64">50-64</option>
     <option value="65 years or over">65+</option>
     </select>
 
-  <label for="Yearly Wage(EUR)">Anual Income</label>
-    <input type="number" name="Yearly Wage(EUR)" id="Yearly Wage(EUR)" placeholder="23000"/>
+  <label for="Wage">Anual Income</label>
+    <input type="number" name="Wage" id="Wage" placeholder="23000"/>
 
+  <label for="Sector">Sector</label>
+   <select name="Sector" id="Sector">
+    <option value="Agriculture, Forestry, Fishing & Hunting">Agriculture, Forestry, Fishing & Hunting</option>
+    <option value="Mining, Quarrying, & Oil & Gas Extraction">Mining, Quarrying, & Oil & Gas Extraction</option>
+    <option value="Utilities">Utilities</option>
+    <option value="Construction">Construction</option>
+    <option value="Manufacturing">Manufacturing</option>
+    <option value="Wholesale">Wholesale</option>
+    <option value="Retail">Retail</option>
+    <option value="Transportation & Warehousing">Transportation & Warehousing</option>
+    <option value="Information">Information</option>
+    <option value="Finance & Insurance">Finance & Insurance</option>
+    <option value="Real Estate & Rental & Leasing">Real Estate & Rental & Leasing</option>
+    <option value="Professional, Scientific & Technical Services">Professional, Scientific & Technical Services</option>
+    <option value="Management of Companies & Enterprises">Management of Companies & Enterprises</option>
+    <option value="Administrative, Support & Waste & Remediation">Administrative, Support & Waste & Remediation</option>
+    <option value="Educational Services">Educational Services</option>
+    <option value="Health Care & Social Assistance">Health Care & Social Assistance</option>
+    <option value="Arts, Entertainment & Recreation">Arts, Entertainment & Recreation</option>
+    <option value="Accommodation & Food Services">Accommodation & Food Services</option>
+    <option value="Others Services">Others Services</option>
+  </select>
 
+  <label for="Education">Education</label>
+    <select name="education" id="education">
+      <option value="High School">High School</option>
+      <option value="Undergraduate Degree">Undergraduate Degree</option>
+      <option value="Master Degree">Master Degree</option>
+      <option value="phD">phD</option>
+      <option value="MBA">MBA</option>
+    </select>
+
+  <label for="Managerial">Managerial Roles</label>
+    <select name="managerial" id="managerial">
+      <option value="0">Don't manage a team</option>
+      <option value="1">Manage a team between 1 to 5 people</option>
+      <option value="6">Manage a team between 6 to 10 people</option>
+      <option value="10">Manage more then 10 people</option>
+    </select>
+
+   <label for="Perception">Perception</label>
+    <div class="slidecontainer">
+      <p>Custom range slider:</p>
+      <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+</div>
 <button>Submit</button>
 </form>
-
-
 
 
