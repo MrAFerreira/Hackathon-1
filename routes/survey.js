@@ -36,16 +36,22 @@ router.get('/result/:id', (req, res, next) => {
   let sameGenderWage;
   let otherGenderWage;
   let countryGap;
+  let perceptionIsPositive = false;
+  let absolutePerceptionValue;
   //console.log(resultId);
   User.findById(resultId)
     .then(user => {
       formResult = user;
+      if (formResult.Perception > 0) {
+        perceptionIsPositive = true;
+      }
+      absolutePerceptionValue = Math.abs(formResult.Perception);
       gap.forEach(element => {
         if (formResult.Country === element.country) {
           countryGap = element.gap;
         }
       });
-      console.log(countryGap);
+      // console.log(countryGap);
       data.forEach(element => {
         if (
           element.Gender === formResult.Gender &&
@@ -61,7 +67,14 @@ router.get('/result/:id', (req, res, next) => {
           otherGenderWage = element['Yearly Wage(EUR)'];
         }
       });
-      res.render('result', { sameGenderWage, otherGenderWage, formResult, countryGap });
+      res.render('result', {
+        sameGenderWage,
+        otherGenderWage,
+        formResult,
+        countryGap,
+        perceptionIsPositive,
+        absolutePerceptionValue
+      });
     })
     .catch(error => next(error));
 });

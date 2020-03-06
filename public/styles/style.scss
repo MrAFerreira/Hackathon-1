@@ -21,7 +21,7 @@ body {
   max-width: 40em;
 }
 
-button a {
+#btn-start {
   text-decoration: none !important;
   &:hover {
     color: white;
@@ -205,16 +205,15 @@ form {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #F8BBD0; 
-  box-shadow: inset 0 0 5px grey; 
-  
+  background: #f8bbd0;
+  box-shadow: inset 0 0 5px grey;
 }
- 
+
 /* Handle */
 ::-webkit-scrollbar-thumb {
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #F48FB1; 
+  background: #f48fb1;
 }

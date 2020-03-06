@@ -9,9 +9,9 @@ body {
   line-height: 2;
   max-width: 40em; }
 
-button a {
+#btn-start {
   text-decoration: none !important; }
-  button a:hover {
+  #btn-start:hover {
     color: white; }
 
 a {
@@ -151,12 +151,12 @@ form#smileys {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #F8BBD0;
+  background: #f8bbd0;
   box-shadow: inset 0 0 5px grey; }
 
 /* Handle */
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #F48FB1; }
+  background: #f48fb1; }
 
 /*# sourceMappingURL=style.css.map */

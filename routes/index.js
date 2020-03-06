@@ -2,14 +2,14 @@
 
 const { Router } = require('express');
 const router = new Router();
-const gap = require('./../gap_per_age.json')
+const gap = require('./../gap_per_age.json');
 
 router.get('/', (req, res, next) => {
-  res.render('index', { title: 'Hello World!' });
+  res.render('index', { title: 'Gender Pay Gap' });
 });
 
 router.get('/info', (req, res, next) => {
-  console.log(gap)
+  console.log(gap);
   res.render('info', { gap });
 });
 

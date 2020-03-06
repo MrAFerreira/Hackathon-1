@@ -1,7 +1,13 @@
-<h5 style="font-weight:400">You think the gender pay gap in {{formResult.Country}} is: <b>{{formResult.Perception}}%</b></h5>
+<h1>Does your country have equal pay?</h1>
+
+{{#if perceptionIsPositive}}
+<h5 style="font-weight:400">You think that women in {{formResult.Country}} receive <b>{{formResult.Perception}}%</b> less than men.</h5>
+{{else}}
+<h5 style="font-weight:400">You think that women in {{formResult.Country}} receive <b>{{absolutePerceptionValue}}%</b> more than men.</h5>
+{{/if}}
 <br>
-<h5 style="font-weight:400">The real gender pay gap in {{formResult.Country}} is: <b>{{countryGap}}%</b></h5>
-<h5 style="font-weight:400">The average gender gap in the EU is: <b>15.7%</b></h5>
+<h5 style="font-weight:400">In reality, women in {{formResult.Country}} receive <b>{{countryGap}}%</b> less than men.</h5>
+<h5 style="font-weight:400">The average gender pay gap in the EU is <b>15.7%</b></h5>
 <br>
 <h5 style="font-weight:400">How do you feel about the gender pay gap in your country?</h5>
 <form  method="POST" id="smileys">
