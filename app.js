@@ -8,6 +8,8 @@ const sassMiddleware = require('node-sass-middleware');
 const serveFavicon = require('serve-favicon');
 const indexRouter = require('./routes/index');
 const surveyRouter = require('./routes/survey');
+const connectMongo = require('connect-mongo');
+const mongoose = require('mongoose');
 
 const app = express();
 

@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const schema = new mongoose.Schema({
   Gender: {
     type: String,
-    enum: ['male', 'female']
+    enum: ['Males', 'Females']
   },
   Country: {
     type: String,
@@ -49,7 +49,7 @@ const schema = new mongoose.Schema({
   },
   'Age Group': {
     type: String,
-    enum: ['less than 18', '18-24 years old', '25-49 years old', '50-64 years old', '65+']
+    enum: ['Less than 18', '18-24 years old', '25-49 years old', '50-64 years old', '65+']
   },
   'Yearly Wage(EUR)': {
     type: Number
