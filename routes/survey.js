@@ -11,6 +11,7 @@ router.get('/', (req, res, next) => {
 
 router.post('/', (req, res, next) => {
   const { Gender, Country, Age, Wage, Sector, Education, Managerial, Perception } = req.body;
+  console.log(req.body);
 
   User.create({
     Gender,
