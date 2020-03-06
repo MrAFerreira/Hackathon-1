@@ -89,7 +89,7 @@ const schema = new mongoose.Schema({
     enum: [
       `High school or less`,
       `Bachelor's degree`,
-      `Master’s degree`,
+      `Master's degree`,
       `Doctorate Degree`,
       `Other`
     ]
@@ -107,7 +107,8 @@ const schema = new mongoose.Schema({
     type: Number
   },
   Satisfaction: {
-    type: Number
+    type: String,
+    enum: ['very sad', 'kind of sad', 'neutral', 'kind of happy', 'very happy']
   }
 });
 

@@ -99,8 +99,8 @@ form#smileys {
   display: flex; }
   form#smileys input[type='radio'] {
     -webkit-appearance: none;
-    width: 90px;
-    height: 90px;
+    width: 50px;
+    height: 50px;
     border: none;
     cursor: pointer;
     transition: border 0.2s ease;

@@ -1,31 +1,22 @@
-<h4>You said that the Gender Gap in Portugal is: 67%</h4>
-<h3>But the reality is:</h3>
-<h4>Portugal:    75%</h4>
-<h4>EU:    80%</h4>
-
-<h3>for 65+:</h3>
-<h4>Portugal:    75%</h4>
-<h4>EU:    80%</h4>
-
-
-  <form id="smileys">
-    <div>
-	<input type="radio" name="smiley" value="very sad" class="verysad">
-	<input type="radio" name="smiley" value="sad" class="sad">
-	<input type="radio" name="smiley" value="neutral" class="neutral"  checked="checked">
-	<input type="radio" name="smiley" value="happy" class="happy">
-	<input type="radio" name="smiley" value="very happy" class="veryhappy">
-	<div>It looks like you're feeling <span id="result">neutral</span> about it!</div>
-  <button>Submit</button>
-    </div>
+<h5 style="font-weight:400">You think the gender pay gap in {{formResult.Country}} is: <b>xx%</b></h5>
+<br>
+<h5 style="font-weight:400">The real gender gap in {{formResult.Country}} is: <b>xx%</b></h5>
+<h5 style="font-weight:400">And in the European Union is: <b>xx%</b></h5>
+<br>
+<h5 style="font-weight:400">How do you feel about the gender pay gap in your country?</h5>
+<form id="smileys">
+  <div>
+		<input type="radio" name="smiley" value="very sad" class="verysad">
+		<input type="radio" name="smiley" value="kind of sad" class="sad">
+		<input type="radio" name="smiley" value="neutral" class="neutral"  checked="checked">
+		<input type="radio" name="smiley" value="kind of happy" class="happy">
+		<input type="radio" name="smiley" value="very happy" class="veryhappy">
+		<br>
+		<div><p>I feel <span id="result">neutral</span> about it.</p></div>
+		<br>
+  	<button class="btn btn-outline-secondary">Submit</button>
+  </div>
 </form>
-
-
-
-
-
-
-
 
 <script>const INPUTS = document.querySelectorAll('#smileys input');
 
