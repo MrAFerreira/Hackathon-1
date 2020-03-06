@@ -30,28 +30,36 @@ router.post('/', (req, res, next) => {
     .catch(error => next(error));
 });
 
-router.get('/result', (req, res, next) => {
+router.get('/result/:id', (req, res, next) => {
   const resultId = req.params.id;
-  let result;
-
+  //let formResult;
+  //console.log(resultId);
   User.findById(resultId)
-    .then(document => {
-      result = document;
+    .then(user => {
+      let formResult;
+      return (formResult = user);
+    })
+    .then(formResult => {
+      let sameGenderWage;
+      let otherGenderWage;
+      data.forEach(element => {
+        if (
+          element.Gender === formResult.Gender &&
+          element['Age Group'] === formResult['Age Group'] &&
+          element.Country === formResult.Country
+        ) {
+          sameGenderWage = element['Yearly Wage(EUR)'];
+        } else if (
+          element.Gender !== formResult.Gender &&
+          element['Age Group'] === formResult['Age Group'] &&
+          element.Country === formResult.Country
+        ) {
+          otherGenderWage = element['Yearly Wage(EUR)'];
+        }
+      });
+      console.log(sameGenderWage, otherGenderWage);
     })
     .catch(error => next(error));
-
-  let specificComparison;
-
-  data.forEach(element => {
-    if (
-      element.Gender === result.Gender &&
-      element['Age Group'] === result['Age Group'] &&
-      element.Country === result.Country
-    ) {
-      return (specificComparison = element['Yearly Wage(EUR)']);
-    }
-  });
-  console.log(specificComparison);
 
   res.render('result');
 });
