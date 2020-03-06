@@ -1,83 +1,75 @@
-<div class="survey">
+<h1>Does your country have equal pay?</h1>
 
-<form method="POST">
+<form method="POST" class="form-survey">
   
- <div class="personal-details">
-
-  <div class="single-details">
-  <label for="Gender">Gender</label>
-  <select name="Gender" id="Gender">
-    <option value="Females">Female</option>
-    <option value="Males">Male</option>
+  <div class="form-group">
+    <label for="Gender">Gender</label>
+    <select class="form-control" name="Gender" id="Gender">
+      <option value="Females">Female</option>
+      <option value="Males">Male</option>
     </select>
   </div>
 
-{{!-- <div class="single-details">
-
-  <label for="Age">Age</label>
-  <select name="Age" id="Age">
-    <option value="From 18 to 24">18-24</option>
-    <option value="From 25 to 49">25-49</option>
-    <option value="From 50 to 64">50-64</option>
-    <option value="65 years or over">65+</option>
+  <div class="form-group">
+    <label for="Country">Country</label>
+    <select class="form-control" name="Country" id="Country">
+      <option value="Belgium">Belgium</option>
+      <option value="Bulgaria">Bulgaria</option>
+      <option value="Czechia">Czechia</option>
+      <option value="Denmark">Denmark</option>
+      <option value="Germany">Germany</option>
+      <option value="Estonia">Estonia</option>
+      <option value="Ireland">Ireland</option>
+      <option value="Greece">Greece</option>
+      <option value="Spain">Spain</option>
+      <option value="France">France</option>
+      <option value="Croatia">Croatia</option>
+      <option value="Italy">Italy</option>
+      <option value="Cyprus">Cyprus</option>
+      <option value="Latvia">Latvia</option>
+      <option value="Lithuania">Lithuania</option>
+      <option value="Luxembourg">Luxembourg</option>
+      <option value="Hungary">Hungary</option>
+      <option value="Malta">Malta</option>
+      <option value="Netherlands">Netherlands</option>
+      <option value="Austria">Austria</option>
+      <option value="Poland">Poland</option>
+      <option value="Portugal">Portugal</option>
+      <option value="Romania">Romania</option>
+      <option value="Slovenia">Slovenia</option>
+      <option value="Slovakia">Slovakia</option>
+      <option value="Finland">Finland</option>
+      <option value="Sweden">Sweden</option>
+      <option value="United Kingdom">United Kingdom</option>
+      <option value="Iceland">Iceland</option>
+      <option value="Norway">Norway</option>
+      <option value="Switzerland">Switzerland</option>
+      <option value="Montenegro">Montenegro</option>
+      <option value="North Macedonia">North Macedonia</option>
+      <option value="Serbia">Serbia</option>
+      <option value="Turkey">Turkey</option>
     </select>
-</div> --}}
-  
-  <div class="single-details">
-  <label for="Country">Country</label>
-  <select name="Country" id="Country">
-    <option value="Belgium">Belgium</option>
-    <option value="Bulgaria">Bulgaria</option>
-    <option value="Czechia">Czechia</option>
-    <option value="Denmark">Denmark</option>
-    <option value="Germany">Germany</option>
-    <option value="Estonia">Estonia</option>
-    <option value="Ireland">Ireland</option>
-    <option value="Greece">Greece</option>
-    <option value="Spain">Spain</option>
-    <option value="France">France</option>
-    <option value="Croatia">Croatia</option>
-    <option value="Italy">Italy</option>
-    <option value="Cyprus">Cyprus</option>
-    <option value="Latvia">Latvia</option>
-    <option value="Lithuania">Lithuania</option>
-    <option value="Luxembourg">Luxembourg</option>
-    <option value="Hungary">Hungary</option>
-    <option value="Malta">Malta</option>
-    <option value="Netherlands">Netherlands</option>
-    <option value="Austria">Austria</option>
-    <option value="Poland">Poland</option>
-    <option value="Portugal">Portugal</option>
-    <option value="Romania">Romania</option>
-    <option value="Slovenia">Slovenia</option>
-    <option value="Slovakia">Slovakia</option>
-    <option value="Finland">Finland</option>
-    <option value="Sweden">Sweden</option>
-    <option value="United Kingdom">United Kingdom</option>
-    <option value="Iceland">Iceland</option>
-    <option value="Norway">Norway</option>
-    <option value="Switzerland">Switzerland</option>
-    <option value="Montenegro">Montenegro</option>
-    <option value="North Macedonia">North Macedonia</option>
-    <option value="Serbia">Serbia</option>
-    <option value="Turkey">Turkey</option>
-  </select>
   </div>
 
+<div class="form-group">
   <label for="Age">Age</label>
-  <select name="Age" id="Age">
+  <select class="form-control" name="Age" id="Age">
     <option value="Less than 18 years">Less than 18</option>
     <option value="From 18 to 24 years">From 18 to 24 years</option>
     <option value="From 25 to 49 years">From 25 to 49 years</option>
     <option value="From 50 to 64 years">From 50 to 64 years</option>
     <option value="65 years or over">65 years or over</option>
-    </select>
+  </select>
+</div>
 
+<div class="form-group">
   <label for="Wage">Annual Income</label>
-    <input type="number" name="Wage" id="Wage" placeholder="23000"/>
+    <input class="form-control" type="number" name="Wage" id="Wage" placeholder="For example: 23000"/>
+</div>
 
+<div class="form-group">
   <label for="Sector">Sector</label>
-   <select name="Sector" id="Sector">
+   <select class="form-control" name="Sector" id="Sector">
     <option value="Agriculture, Forestry, Fishing & Hunting">Agriculture, Forestry, Fishing & Hunting</option>
     <option value="Mining, Quarrying, & Oil & Gas Extraction">Mining, Quarrying, & Oil & Gas Extraction</option>
     <option value="Utilities">Utilities</option>
@@ -98,33 +90,36 @@
     <option value="Accommodation & Food Services">Accommodation & Food Services</option>
     <option value="Other Sector">Other Sector</option>
   </select>
-
-
+</div>
+ 
+<div class="form-group">
   <label for="Education">Education</label>
-    <select name="Education" id="Education">
+    <select class="form-control" name="Education" id="Education">
       <option value="High school or less">High school or less</option>
       <option value="Bachelor's degree">Bachelor's degree</option>
       <option value="Master's degree">Master's degree</option>
       <option value="Doctorate Degree">Doctorate Degree</option>
       <option value="Other">Other</option>
     </select>
+</div>
 
+<div class="form-group">
   <label for="Managerial">Managerial Role</label>
-    <select name="Managerial" id="Managerial">
+    <select class="form-control" name="Managerial" id="Managerial">
       <option value="I don't manage a team">I don't manage a team</option>
       <option value="I manage a team with 1 to 5 people">I manage a team with 1 to 5 people</option>
       <option value="I manage a team with 6 to 10 people">I manage a team with 6 to 10 people</option>
       <option value="I manage a team with more than 10 people">I manage a team with more than 10 people</option>
     </select>
+</div>
 
-   <label for="Perception">Perception</label>
+<div class="form-group">
+  <label for="Perception">Perception</label>
     <div class="slidecontainer">
       <p>Custom range slider:</p>
       <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+    </div>
 </div>
- </div>
-<button>Submit</button>
+
+<button type="submit" class="btn btn-outline-secondary btn-form-submit">Submit</button>
 </form>
-
-</div>
-

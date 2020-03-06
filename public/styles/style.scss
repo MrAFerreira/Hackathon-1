@@ -15,6 +15,7 @@ body {
   font-family: sans-serif;
   font-family: $font-sans;
   line-height: 2;
+  max-width: 40em;
 }
 
 a {
@@ -48,6 +49,10 @@ p {
   }
 }
 
+h1 {
+  font-size: 1.8em;
+}
+
 img {
   width: 100%;
   max-width: 100%;
@@ -66,7 +71,7 @@ button,
   border: 1px solid $grey;
   border-radius: 0;
   margin-bottom: 1em;
-  font: inherit;
+  font-family: inherit;
   color: inherit;
   background-color: transparent;
 }
@@ -89,112 +94,100 @@ textarea {
   background: #d3d3d3;
   outline: none;
   opacity: 0.7;
-  -webkit-transition: .2s;
-  transition: opacity .2s;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
 }
 
 .slider:hover {
   opacity: 1;
 }
 
-
 .slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
   width: 25px;
   height: 25px;
-  background: #4CAF50;
+  background: #4caf50;
   cursor: pointer;
 }
 
 .slider::-moz-range-thumb {
   width: 25px;
   height: 25px;
-  background: #4CAF50;
+  background: #4caf50;
   cursor: pointer;
-}
-
-//survery form style
-
-.survey{
-  margin-left: 30%;
-  margin-right: 30%
-}
-
-.personal-details {
-  display:flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.single-details{
-  display: flex;
-  flex-direction: column;
 }
 
 //rating system
 form {
-	&#smileys {
-      display: flex;
-		input[type="radio"] {
-			-webkit-appearance: none;
-			width: 90px;
-			height: 90px;
-			border: none;
-			cursor: pointer;
-			transition: border .2s ease;
-			filter: grayscale(100%);
-			margin: 0 5px;
-			transition: all .2s ease;
-			
-			&:hover, &:checked {
-				filter:	grayscale(0);
-			}
-			
-			&:focus {
-				outline: 0;
-			}
-			&.veryhappy {
-				background: url('../images/veryhappy.svg') center;
-				background-size: cover;
-			}
-			&.happy {
-				background: url('../images/happy.svg') center;
-				background-size: cover;
-			}
-			
-			&.neutral {
-				background: url('../images/neutral.svg') center;
-				background-size: cover;
-			}
-			&.sad {
-				background: url('../images/sad.svg') center;
-				background-size: cover;	
-			}
-			&.verysad {
-				background: url('../images/verysad.svg') center;
-				background-size: cover;	
-			}
-		}
-	}
+  &#smileys {
+    display: flex;
+    input[type='radio'] {
+      -webkit-appearance: none;
+      width: 90px;
+      height: 90px;
+      border: none;
+      cursor: pointer;
+      transition: border 0.2s ease;
+      filter: grayscale(100%);
+      margin: 0 5px;
+      transition: all 0.2s ease;
+
+      &:hover,
+      &:checked {
+        filter: grayscale(0);
+      }
+
+      &:focus {
+        outline: 0;
+      }
+      &.veryhappy {
+        background: url('../images/veryhappy.svg') center;
+        background-size: cover;
+      }
+      &.happy {
+        background: url('../images/happy.svg') center;
+        background-size: cover;
+      }
+
+      &.neutral {
+        background: url('../images/neutral.svg') center;
+        background-size: cover;
+      }
+      &.sad {
+        background: url('../images/sad.svg') center;
+        background-size: cover;
+      }
+      &.verysad {
+        background: url('../images/verysad.svg') center;
+        background-size: cover;
+      }
+    }
+  }
 }
 
 .mtt {
-	position: fixed;
-	bottom: 10px;
-	right: 20px;
-	color: #999;
-	text-decoration: none;
-	
-	span {
-		color: #e74c3c;
-	}
-	
-	&:hover {
-		color: red;
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+  color: #999;
+  text-decoration: none;
 
-		span {
-			color: #c0392b;
-		}
-	}
+  span {
+    color: #e74c3c;
+  }
+
+  &:hover {
+    color: red;
+
+    span {
+      color: #c0392b;
+    }
+  }
+}
+
+.btn btn-outline-secondary {
+  a {
+    text-decoration: none !important;
+  }
 }

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 *, *:before, *:after {
   box-sizing: border-box; }
 
@@ -6,7 +7,8 @@ body {
   margin: 0 auto;
   font-family: sans-serif;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 2; }
+  line-height: 2;
+  max-width: 40em; }
 
 a {
   color: inherit;
@@ -37,6 +39,9 @@ p {
   p:not(:last-child) {
     margin-bottom: 1rem; }
 
+h1 {
+  font-size: 1.8em; }
+
 img {
   width: 100%;
   max-width: 100%; }
@@ -53,7 +58,7 @@ button,
   border: 1px solid rgba(191, 191, 191, 0.5);
   border-radius: 0;
   margin-bottom: 1em;
-  font: inherit;
+  font-family: inherit;
   color: inherit;
   background-color: transparent; }
 
@@ -71,8 +76,8 @@ textarea {
   background: #d3d3d3;
   outline: none;
   opacity: 0.7;
-  -webkit-transition: .2s;
-  transition: opacity .2s; }
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s; }
 
 .slider:hover {
   opacity: 1; }
@@ -82,57 +87,44 @@ textarea {
   appearance: none;
   width: 25px;
   height: 25px;
-  background: #4CAF50;
+  background: #4caf50;
   cursor: pointer; }
 
 .slider::-moz-range-thumb {
   width: 25px;
   height: 25px;
-  background: #4CAF50;
+  background: #4caf50;
   cursor: pointer; }
-
-.survey {
-  margin-left: 30%;
-  margin-right: 30%; }
-
-.personal-details {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around; }
-
-.single-details {
-  display: flex;
-  flex-direction: column; }
 
 form#smileys {
   display: flex; }
-  form#smileys input[type="radio"] {
+  form#smileys input[type='radio'] {
     -webkit-appearance: none;
     width: 90px;
     height: 90px;
     border: none;
     cursor: pointer;
-    transition: border .2s ease;
+    transition: border 0.2s ease;
     filter: grayscale(100%);
     margin: 0 5px;
-    transition: all .2s ease; }
-    form#smileys input[type="radio"]:hover, form#smileys input[type="radio"]:checked {
+    transition: all 0.2s ease; }
+    form#smileys input[type='radio']:hover, form#smileys input[type='radio']:checked {
       filter: grayscale(0); }
-    form#smileys input[type="radio"]:focus {
+    form#smileys input[type='radio']:focus {
       outline: 0; }
-    form#smileys input[type="radio"].veryhappy {
+    form#smileys input[type='radio'].veryhappy {
       background: url("../images/veryhappy.svg") center;
       background-size: cover; }
-    form#smileys input[type="radio"].happy {
+    form#smileys input[type='radio'].happy {
       background: url("../images/happy.svg") center;
       background-size: cover; }
-    form#smileys input[type="radio"].neutral {
+    form#smileys input[type='radio'].neutral {
       background: url("../images/neutral.svg") center;
       background-size: cover; }
-    form#smileys input[type="radio"].sad {
+    form#smileys input[type='radio'].sad {
       background: url("../images/sad.svg") center;
       background-size: cover; }
-    form#smileys input[type="radio"].verysad {
+    form#smileys input[type='radio'].verysad {
       background: url("../images/verysad.svg") center;
       background-size: cover; }
 
@@ -148,5 +140,11 @@ form#smileys {
     color: red; }
     .mtt:hover span {
       color: #c0392b; }
+
+.btn btn-outline-secondary a {
+  text-decoration: none !important; }
+
+.btn-form-submit  {
+  width: 50px; }
 
 /*# sourceMappingURL=style.css.map */
