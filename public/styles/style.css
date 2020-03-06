@@ -1,3 +1,4 @@
+@charset "UTF-8";
 *, *:before, *:after {
   box-sizing: border-box; }
 
@@ -37,6 +38,9 @@ p {
   h3:not(:last-child),
   p:not(:last-child) {
     margin-bottom: 1rem; }
+
+h1 {
+  font-size: 1.8em; }
 
 img {
   width: 100%;
@@ -136,5 +140,11 @@ form#smileys {
     color: red; }
     .mtt:hover span {
       color: #c0392b; }
+
+.btn btn-outline-secondary a {
+  text-decoration: none !important; }
+
+.btn-form-submit  {
+  width: 50px; }
 
 /*# sourceMappingURL=style.css.map */

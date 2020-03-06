@@ -49,6 +49,10 @@ p {
   }
 }
 
+h1 {
+  font-size: 1.8em;
+}
+
 img {
   width: 100%;
   max-width: 100%;
@@ -179,5 +183,11 @@ form {
     span {
       color: #c0392b;
     }
+  }
+}
+
+.btn btn-outline-secondary {
+  a {
+    text-decoration: none !important;
   }
 }
