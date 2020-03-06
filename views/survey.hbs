@@ -1,6 +1,6 @@
 <div class="survey">
 
-<form action="/" method="POST">
+<form method="POST">
   
  <div class="personal-details">
 
@@ -12,7 +12,7 @@
     </select>
   </div>
 
-<div class="single-details">
+{{!-- <div class="single-details">
 
   <label for="Age">Age</label>
   <select name="Age" id="Age">
@@ -21,7 +21,7 @@
     <option value="From 50 to 64">50-64</option>
     <option value="65 years or over">65+</option>
     </select>
-</div>
+</div> --}}
   
   <div class="single-details">
   <label for="Country">Country</label>
@@ -99,16 +99,6 @@
     <option value="Other Sector">Other Sector</option>
   </select>
 
-  <label for="Wage">Anual Income</label>
-    <input type="number" name="Wage" id="Wage" placeholder="23000"/>
-
-  <label for="Managerial">Managerial Roles</label>
-    <select name="managerial" id="managerial">
-      <option value="0">Don't manage a team</option>
-      <option value="1">Manage a team between 1 to 5 people</option>
-      <option value="6">Manage a team between 6 to 10 people</option>
-      <option value="10">Manage more then 10 people</option>
-    </select>
 
   <label for="Education">Education</label>
     <select name="Education" id="Education">
@@ -132,6 +122,7 @@
       <p>Custom range slider:</p>
       <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
 </div>
+ </div>
 <button>Submit</button>
 </form>
 
