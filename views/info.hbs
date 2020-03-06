@@ -1,4 +1,4 @@
-<div class="form-group">
+<form class="form-group" method="GET">
     <label for="Country">Country</label>
     <select class="form-control" name="Country" id="Country">
       <option value="Belgium">Belgium</option>
@@ -37,22 +37,26 @@
       <option value="Serbia">Serbia</option>
       <option value="Turkey">Turkey</option>
     </select>
-  </div>
-
-
+    <button type="button" id="select-country">Select</button>
+  </form>
 <canvas id="myChart" width="400" height="400"></canvas>
-
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 <script>
-
+let countrySelected = "Belgium"
+let dataArray = []
 var ctx = document.getElementById('myChart').getContext('2d');
-var myChart = new Chart(ctx, {
+const $button = document.getElementById("select-country")
+$button.addEventListener("click", ()=>{
+  var x = document.getElementById("Country").selectedIndex;
+  countrySelected = document.getElementsByTagName("option")[x].value;
+  
+  new Chart(ctx, {
     type: 'radar',
     data: {
-        labels: ['25-34 Years Old','35-44 Years Old', '45-54 Years Old', '55-64 Years Old', '65+ Years Old'],
+        labels: ['65+ Years Old','25-34 Years Old','35-44 Years Old', '45-54 Years Old', '55-64 Years Old'],
         datasets: [{
             label: 'Europe',
-            data: [9.53, 13.26, 14.23, 13.25, 15.25],
+            data: [15.25, 9.53, 13.26, 14.23, 13.25],
             backgroundColor: [
                 'rgba(44, 130, 201, 0.2)',
             ],
@@ -62,7 +66,48 @@ var myChart = new Chart(ctx, {
             borderWidth: 2
         },
         {
-            label: 'Portugal',
+            label: countrySelected,
+            data: dataArray,
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+            ],
+            borderWidth: 2
+        }
+        ]
+    },
+    options: {
+      scale: {
+        angleLines: {
+            display: false
+        },
+        ticks: {
+            suggestedMin: -20,
+            suggestedMax: 60
+        }
+    }
+    }
+});
+})
+var myChart = new Chart(ctx, {
+    type: 'radar',
+    data: {
+        labels: ['65+ Years Old','25-34 Years Old','35-44 Years Old', '45-54 Years Old', '55-64 Years Old'],
+        datasets: [{
+            label: 'Europe',
+            data: [15.25, 9.53, 13.26, 14.23, 13.25],
+            backgroundColor: [
+                'rgba(44, 130, 201, 0.2)',
+            ],
+            borderColor: [
+                'rgba(44, 130, 201, 1)',
+            ],
+            borderWidth: 2
+        },
+        {
+            label: countrySelected,
             data: [9.8, 14.5, 18, 23.3, 39.5],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
