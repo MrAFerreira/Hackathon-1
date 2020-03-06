@@ -16,7 +16,7 @@ router.post('/', (req, res, next) => {
   //res.redirect(`/result${._id}`, { info });
 });
 
-router.get('/result/:id', (req, res, next) => {
+router.get('/result', (req, res, next) => {
   const resultId = req.params.id;
 
   res.render('result');

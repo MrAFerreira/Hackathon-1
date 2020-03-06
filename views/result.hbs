@@ -1,0 +1,36 @@
+<h4>You said that the Gender Gap in Portugal is: 67%</h4>
+<h3>But the reality is:</h3>
+<h4>Portugal:    75%</h4>
+<h4>EU:    80%</h4>
+
+<h3>for 65+:</h3>
+<h4>Portugal:    75%</h4>
+<h4>EU:    80%</h4>
+
+
+  <form id="smileys">
+    <div>
+	<input type="radio" name="smiley" value="very sad" class="verysad">
+	<input type="radio" name="smiley" value="sad" class="sad">
+	<input type="radio" name="smiley" value="neutral" class="neutral"  checked="checked">
+	<input type="radio" name="smiley" value="happy" class="happy">
+	<input type="radio" name="smiley" value="very happy" class="veryhappy">
+	<div>It looks like you're feeling <span id="result">neutral</span> about it!</div>
+  <button>Submit</button>
+    </div>
+</form>
+
+
+
+
+
+
+
+
+<script>const INPUTS = document.querySelectorAll('#smileys input');
+
+function updateValue(e) {
+	document.querySelector('#result').innerHTML = e.target.value;
+}
+
+INPUTS.forEach(el => el.addEventListener('click', (e) => updateValue(e)));</script>
