@@ -10,11 +10,11 @@
 
   <form id="smileys">
     <div>
-	<input type="radio" name="smiley" value="very sad" class="verysad">
-	<input type="radio" name="smiley" value="sad" class="sad">
-	<input type="radio" name="smiley" value="neutral" class="neutral"  checked="checked">
-	<input type="radio" name="smiley" value="happy" class="happy">
-	<input type="radio" name="smiley" value="very happy" class="veryhappy">
+	<input type="radio" name="smiley" placeholder="Very Sad" value="1" class="verysad">
+	<input type="radio" name="smiley" placeholder="Sad" value="2" class="sad">
+	<input type="radio" name="smiley" placeholder="Neutral" value="3" class="neutral"  checked="checked">
+	<input type="radio" name="smiley" placeholder="Happy" value="4" class="happy">
+	<input type="radio" name="smiley" placeholder="Very Happy" value="5" class="veryhappy">
 	<div>It looks like you're feeling <span id="result">neutral</span> about it!</div>
   <button>Submit</button>
     </div>
@@ -30,7 +30,7 @@
 <script>const INPUTS = document.querySelectorAll('#smileys input');
 
 function updateValue(e) {
-	document.querySelector('#result').innerHTML = e.target.value;
+	document.querySelector('#result').innerHTML = e.target.placeholder;
 }
 
 INPUTS.forEach(el => el.addEventListener('click', (e) => updateValue(e)));</script>
