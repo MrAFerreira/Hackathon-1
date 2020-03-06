@@ -1,1 +1,2102 @@
-[{"Country":"Belgium","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":23242},{"Country":"Belgium","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":23644},{"Country":"Belgium","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":23550},{"Country":"Belgium","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":21783},{"Country":"Belgium","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":26423},{"Country":"Belgium","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":25419},{"Country":"Belgium","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":26147},{"Country":"Belgium","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":25401},{"Country":"Belgium","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":20244},{"Country":"Belgium","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":18501},{"Country":"Bulgaria","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":3415},{"Country":"Bulgaria","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":3211},{"Country":"Bulgaria","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":3638},{"Country":"Bulgaria","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":3615},{"Country":"Bulgaria","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":3959},{"Country":"Bulgaria","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":3958},{"Country":"Bulgaria","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":4090},{"Country":"Bulgaria","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":4076},{"Country":"Bulgaria","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":3184},{"Country":"Bulgaria","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":2652},{"Country":"Czechia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":9120},{"Country":"Czechia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":9014},{"Country":"Czechia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":9452},{"Country":"Czechia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":9115},{"Country":"Czechia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":10283},{"Country":"Czechia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":9754},{"Country":"Czechia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":10182},{"Country":"Czechia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":9642},{"Country":"Czechia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":7480},{"Country":"Czechia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":6917},{"Country":"Denmark","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":30089},{"Country":"Denmark","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":30434},{"Country":"Denmark","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":23785},{"Country":"Denmark","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":20371},{"Country":"Denmark","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":32209},{"Country":"Denmark","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":31599},{"Country":"Denmark","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":37027},{"Country":"Denmark","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":36055},{"Country":"Denmark","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":25141},{"Country":"Denmark","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":24080},{"Country":"Germany","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":21574},{"Country":"Germany","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":21758},{"Country":"Germany","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":22291},{"Country":"Germany","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":19768},{"Country":"Germany","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":24686},{"Country":"Germany","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":23937},{"Country":"Germany","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":25693},{"Country":"Germany","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":23887},{"Country":"Germany","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":20445},{"Country":"Germany","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":19282},{"Country":"Estonia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":11167},{"Country":"Estonia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":10671},{"Country":"Estonia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":10154},{"Country":"Estonia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":10237},{"Country":"Estonia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":12081},{"Country":"Estonia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":12277},{"Country":"Estonia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":11683},{"Country":"Estonia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":11259},{"Country":"Estonia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":7021},{"Country":"Estonia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":6162},{"Country":"Ireland","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":23312},{"Country":"Ireland","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":22534},{"Country":"Ireland","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":27076},{"Country":"Ireland","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":23304},{"Country":"Ireland","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":27577},{"Country":"Ireland","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":25710},{"Country":"Ireland","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":26766},{"Country":"Ireland","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":27323},{"Country":"Ireland","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":22215},{"Country":"Ireland","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":20264},{"Country":"Greece","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":7124},{"Country":"Greece","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":7206},{"Country":"Greece","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":6720},{"Country":"Greece","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":6688},{"Country":"Greece","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":8225},{"Country":"Greece","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":7891},{"Country":"Greece","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":8370},{"Country":"Greece","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":8511},{"Country":"Greece","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":8240},{"Country":"Greece","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":7687},{"Country":"Spain","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":14143},{"Country":"Spain","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":13502},{"Country":"Spain","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":13111},{"Country":"Spain","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":12420},{"Country":"Spain","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":15507},{"Country":"Spain","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":14846},{"Country":"Spain","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":15648},{"Country":"Spain","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":16300},{"Country":"Spain","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":15123},{"Country":"Spain","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":13681},{"Country":"France","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":20104},{"Country":"France","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":20332},{"Country":"France","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":20002},{"Country":"France","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":20781},{"Country":"France","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":22911},{"Country":"France","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":22033},{"Country":"France","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":24538},{"Country":"France","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":24225},{"Country":"France","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":23796},{"Country":"France","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":22086},{"Country":"Croatia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":6457},{"Country":"Croatia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":6527},{"Country":"Croatia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":6971},{"Country":"Croatia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":6545},{"Country":"Croatia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":7431},{"Country":"Croatia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":7462},{"Country":"Croatia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":6952},{"Country":"Croatia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":6840},{"Country":"Croatia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":5895},{"Country":"Croatia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":5306},{"Country":"Italy","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":14433},{"Country":"Italy","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":14697},{"Country":"Italy","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":15566},{"Country":"Italy","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":14773},{"Country":"Italy","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":17610},{"Country":"Italy","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":16311},{"Country":"Italy","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":18858},{"Country":"Italy","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":18440},{"Country":"Italy","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":17755},{"Country":"Italy","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":16503},{"Country":"Cyprus","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":14361},{"Country":"Cyprus","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":14843},{"Country":"Cyprus","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":14510},{"Country":"Cyprus","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":15163},{"Country":"Cyprus","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":16194},{"Country":"Cyprus","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":15813},{"Country":"Cyprus","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":17089},{"Country":"Cyprus","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":16624},{"Country":"Cyprus","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":13386},{"Country":"Cyprus","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":11997},{"Country":"Latvia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":7753},{"Country":"Latvia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":7660},{"Country":"Latvia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":7438},{"Country":"Latvia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":7527},{"Country":"Latvia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":8963},{"Country":"Latvia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":8812},{"Country":"Latvia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":7663},{"Country":"Latvia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":7453},{"Country":"Latvia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":5149},{"Country":"Latvia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":4414},{"Country":"Lithuania","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":6400},{"Country":"Lithuania","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":6914},{"Country":"Lithuania","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":6560},{"Country":"Lithuania","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":7267},{"Country":"Lithuania","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":8275},{"Country":"Lithuania","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":7778},{"Country":"Lithuania","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":7778},{"Country":"Lithuania","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":7689},{"Country":"Lithuania","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":5395},{"Country":"Lithuania","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":4489},{"Country":"Luxembourg","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":35878},{"Country":"Luxembourg","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":36346},{"Country":"Luxembourg","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":36611},{"Country":"Luxembourg","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":33992},{"Country":"Luxembourg","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":40952},{"Country":"Luxembourg","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":39980},{"Country":"Luxembourg","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":42117},{"Country":"Luxembourg","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":41959},{"Country":"Luxembourg","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":45405},{"Country":"Luxembourg","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":42230},{"Country":"Hungary","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":4988},{"Country":"Hungary","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":4749},{"Country":"Hungary","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":5064},{"Country":"Hungary","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":5168},{"Country":"Hungary","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":5816},{"Country":"Hungary","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":5584},{"Country":"Hungary","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":5517},{"Country":"Hungary","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":5607},{"Country":"Hungary","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":5672},{"Country":"Hungary","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":5000},{"Country":"Malta","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":13958},{"Country":"Malta","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":14196},{"Country":"Malta","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":15414},{"Country":"Malta","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":16173},{"Country":"Malta","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":17246},{"Country":"Malta","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":16878},{"Country":"Malta","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":14980},{"Country":"Malta","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":14988},{"Country":"Malta","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":11859},{"Country":"Malta","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":10824},{"Country":"Netherlands","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":24175},{"Country":"Netherlands","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":24501},{"Country":"Netherlands","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":21633},{"Country":"Netherlands","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":19264},{"Country":"Netherlands","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":26684},{"Country":"Netherlands","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":25857},{"Country":"Netherlands","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":27010},{"Country":"Netherlands","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":25857},{"Country":"Netherlands","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":21243},{"Country":"Netherlands","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":19877},{"Country":"Austria","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":21936},{"Country":"Austria","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":22232},{"Country":"Austria","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":26358},{"Country":"Austria","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":25670},{"Country":"Austria","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":26154},{"Country":"Austria","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":25025},{"Country":"Austria","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":29386},{"Country":"Austria","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":28007},{"Country":"Austria","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":25742},{"Country":"Austria","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":22980},{"Country":"Poland","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":6451},{"Country":"Poland","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":6450},{"Country":"Poland","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":6176},{"Country":"Poland","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":5809},{"Country":"Poland","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":7074},{"Country":"Poland","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":7010},{"Country":"Poland","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":6575},{"Country":"Poland","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":6545},{"Country":"Poland","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":6467},{"Country":"Poland","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":5816},{"Country":"Portugal","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":9063},{"Country":"Portugal","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":9000},{"Country":"Portugal","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":8684},{"Country":"Portugal","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":8723},{"Country":"Portugal","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":10031},{"Country":"Portugal","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":9733},{"Country":"Portugal","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":9675},{"Country":"Portugal","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":9740},{"Country":"Portugal","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":9125},{"Country":"Portugal","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":8208},{"Country":"Romania","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":2780},{"Country":"Romania","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":2955},{"Country":"Romania","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":2959},{"Country":"Romania","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":2878},{"Country":"Romania","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":3768},{"Country":"Romania","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":3665},{"Country":"Romania","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":3660},{"Country":"Romania","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":3587},{"Country":"Romania","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":3283},{"Country":"Romania","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":2841},{"Country":"Slovenia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":13307},{"Country":"Slovenia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":13171},{"Country":"Slovenia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":13463},{"Country":"Slovenia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":12923},{"Country":"Slovenia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":13863},{"Country":"Slovenia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":13776},{"Country":"Slovenia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":13689},{"Country":"Slovenia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":13457},{"Country":"Slovenia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":12234},{"Country":"Slovenia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":10976},{"Country":"Slovakia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":6884},{"Country":"Slovakia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":6838},{"Country":"Slovakia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":7388},{"Country":"Slovakia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":7388},{"Country":"Slovakia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":8188},{"Country":"Slovakia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":7852},{"Country":"Slovakia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":8392},{"Country":"Slovakia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":8275},{"Country":"Slovakia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":7153},{"Country":"Slovakia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":6791},{"Country":"Finland","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":23947},{"Country":"Finland","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":23745},{"Country":"Finland","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":21167},{"Country":"Finland","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":19339},{"Country":"Finland","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":26173},{"Country":"Finland","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":26268},{"Country":"Finland","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":28813},{"Country":"Finland","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":28664},{"Country":"Finland","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":22785},{"Country":"Finland","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":19773},{"Country":"Sweden","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":24521},{"Country":"Sweden","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":23849},{"Country":"Sweden","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":21515},{"Country":"Sweden","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":22096},{"Country":"Sweden","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":26648},{"Country":"Sweden","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":27037},{"Country":"Sweden","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":32964},{"Country":"Sweden","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":31878},{"Country":"Sweden","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":23541},{"Country":"Sweden","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":19794},{"Country":"United Kingdom","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":18309},{"Country":"United Kingdom","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":18180},{"Country":"United Kingdom","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":20013},{"Country":"United Kingdom","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":18344},{"Country":"United Kingdom","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":24097},{"Country":"United Kingdom","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":22457},{"Country":"United Kingdom","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":23423},{"Country":"United Kingdom","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":22909},{"Country":"United Kingdom","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":20394},{"Country":"United Kingdom","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":18341},{"Country":"Iceland","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":25780},{"Country":"Iceland","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":26196},{"Country":"Iceland","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":30479},{"Country":"Iceland","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":30785},{"Country":"Iceland","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":28262},{"Country":"Iceland","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":27663},{"Country":"Iceland","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":34987},{"Country":"Iceland","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":34588},{"Country":"Iceland","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":27666},{"Country":"Iceland","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":25559},{"Country":"Norway","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":37458},{"Country":"Norway","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":37958},{"Country":"Norway","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":27481},{"Country":"Norway","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":27932},{"Country":"Norway","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":40581},{"Country":"Norway","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":39549},{"Country":"Norway","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":48046},{"Country":"Norway","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":47919},{"Country":"Norway","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":39222},{"Country":"Norway","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":34628},{"Country":"Switzerland","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":37707},{"Country":"Switzerland","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":38174},{"Country":"Switzerland","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":42911},{"Country":"Switzerland","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":41690},{"Country":"Switzerland","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":46031},{"Country":"Switzerland","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":44818},{"Country":"Switzerland","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":50115},{"Country":"Switzerland","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":47344},{"Country":"Switzerland","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":39839},{"Country":"Switzerland","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":35182},{"Country":"Montenegro","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":3097},{"Country":"Montenegro","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":2984},{"Country":"Montenegro","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":3123},{"Country":"Montenegro","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":3227},{"Country":"Montenegro","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":3700},{"Country":"Montenegro","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":3636},{"Country":"Montenegro","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":3653},{"Country":"Montenegro","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":3800},{"Country":"Montenegro","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":4013},{"Country":"Montenegro","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":3420},{"Country":"North Macedonia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":2147},{"Country":"North Macedonia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":2316},{"Country":"North Macedonia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":2331},{"Country":"North Macedonia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":2343},{"Country":"North Macedonia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":2715},{"Country":"North Macedonia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":2664},{"Country":"North Macedonia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":2823},{"Country":"North Macedonia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":2856},{"Country":"North Macedonia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":3011},{"Country":"North Macedonia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":2812},{"Country":"Serbia","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":2502},{"Country":"Serbia","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":2577},{"Country":"Serbia","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":2637},{"Country":"Serbia","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":2469},{"Country":"Serbia","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":2853},{"Country":"Serbia","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":2840},{"Country":"Serbia","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":2720},{"Country":"Serbia","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":2868},{"Country":"Serbia","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":2950},{"Country":"Serbia","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":2637},{"Country":"Turkey","Age Group":"Less than 18 years","Gender":"Males","Yearly Wage(EUR)":3111},{"Country":"Turkey","Age Group":"Less than 18 years","Gender":"Females","Yearly Wage(EUR)":3051},{"Country":"Turkey","Age Group":"From 18 to 24 years","Gender":"Males","Yearly Wage(EUR)":3914},{"Country":"Turkey","Age Group":"From 18 to 24 years","Gender":"Females","Yearly Wage(EUR)":3628},{"Country":"Turkey","Age Group":"From 25 to 49 years","Gender":"Males","Yearly Wage(EUR)":4204},{"Country":"Turkey","Age Group":"From 25 to 49 years","Gender":"Females","Yearly Wage(EUR)":4135},{"Country":"Turkey","Age Group":"From 50 to 64 years","Gender":"Males","Yearly Wage(EUR)":4913},{"Country":"Turkey","Age Group":"From 50 to 64 years","Gender":"Females","Yearly Wage(EUR)":4617},{"Country":"Turkey","Age Group":"65 years or over","Gender":"Males","Yearly Wage(EUR)":4128},{"Country":"Turkey","Age Group":"65 years or over","Gender":"Females","Yearly Wage(EUR)":3778}]
+[
+  {
+    "Country": "Belgium",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23242
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 23644
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23550
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 21783
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26423
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25419
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26147
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25401
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 20244
+  },
+  {
+    "Country": "Belgium",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 18501
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3415
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3211
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3638
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3615
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3959
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3958
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 4090
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 4076
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3184
+  },
+  {
+    "Country": "Bulgaria",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2652
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 9120
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9014
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 9452
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9115
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 10283
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9754
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 10182
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9642
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7480
+  },
+  {
+    "Country": "Czechia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6917
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 30089
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 30434
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23785
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 20371
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 32209
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 31599
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 37027
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 36055
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 25141
+  },
+  {
+    "Country": "Denmark",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 24080
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 21574
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 21758
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 22291
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19768
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 24686
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 23937
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 25693
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 23887
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 20445
+  },
+  {
+    "Country": "Germany",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19282
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 11167
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 10671
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 10154
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 10237
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 12081
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 12277
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 11683
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 11259
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7021
+  },
+  {
+    "Country": "Estonia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6162
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23312
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22534
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 27076
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 23304
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 27577
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25710
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26766
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 27323
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 22215
+  },
+  {
+    "Country": "Ireland",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 20264
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7124
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7206
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6720
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6688
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8225
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7891
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8370
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 8511
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8240
+  },
+  {
+    "Country": "Greece",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7687
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 14143
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 13502
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13111
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 12420
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 15507
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 14846
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 15648
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 16300
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 15123
+  },
+  {
+    "Country": "Spain",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 13681
+  },
+  {
+    "Country": "France",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 20104
+  },
+  {
+    "Country": "France",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 20332
+  },
+  {
+    "Country": "France",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 20002
+  },
+  {
+    "Country": "France",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 20781
+  },
+  {
+    "Country": "France",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 22911
+  },
+  {
+    "Country": "France",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22033
+  },
+  {
+    "Country": "France",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 24538
+  },
+  {
+    "Country": "France",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 24225
+  },
+  {
+    "Country": "France",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23796
+  },
+  {
+    "Country": "France",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22086
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6457
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6527
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6971
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6545
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7431
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7462
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6952
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6840
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5895
+  },
+  {
+    "Country": "Croatia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5306
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 14433
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 14697
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 15566
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 14773
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 17610
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 16311
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 18858
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 18440
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 17755
+  },
+  {
+    "Country": "Italy",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 16503
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 14361
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 14843
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 14510
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 15163
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 16194
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 15813
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 17089
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 16624
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13386
+  },
+  {
+    "Country": "Cyprus",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 11997
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7753
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7660
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7438
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7527
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8963
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 8812
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7663
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7453
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5149
+  },
+  {
+    "Country": "Latvia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 4414
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6400
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6914
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6560
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7267
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8275
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7778
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7778
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7689
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5395
+  },
+  {
+    "Country": "Lithuania",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 4489
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 35878
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 36346
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 36611
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 33992
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 40952
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 39980
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 42117
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 41959
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 45405
+  },
+  {
+    "Country": "Luxembourg",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 42230
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 4988
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 4749
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5064
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5168
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5816
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5584
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5517
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5607
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 5672
+  },
+  {
+    "Country": "Hungary",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5000
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13958
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 14196
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 15414
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 16173
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 17246
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 16878
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 14980
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 14988
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 11859
+  },
+  {
+    "Country": "Malta",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 10824
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 24175
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 24501
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 21633
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19264
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26684
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25857
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 27010
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25857
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 21243
+  },
+  {
+    "Country": "Netherlands",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19877
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 21936
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22232
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26358
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25670
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26154
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25025
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 29386
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 28007
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 25742
+  },
+  {
+    "Country": "Austria",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22980
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6451
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6450
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6176
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5809
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7074
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7010
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6575
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6545
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6467
+  },
+  {
+    "Country": "Poland",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 5816
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 9063
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9000
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8684
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 8723
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 10031
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9733
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 9675
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 9740
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 9125
+  },
+  {
+    "Country": "Portugal",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 8208
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2780
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2955
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2959
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2878
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3768
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3665
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3660
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3587
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3283
+  },
+  {
+    "Country": "Romania",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2841
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13307
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 13171
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13463
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 12923
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13863
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 13776
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 13689
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 13457
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 12234
+  },
+  {
+    "Country": "Slovenia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 10976
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 6884
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6838
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7388
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7388
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8188
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 7852
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 8392
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 8275
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 7153
+  },
+  {
+    "Country": "Slovakia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 6791
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23947
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 23745
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 21167
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19339
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26173
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 26268
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 28813
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 28664
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 22785
+  },
+  {
+    "Country": "Finland",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19773
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 24521
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 23849
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 21515
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22096
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 26648
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 27037
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 32964
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 31878
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23541
+  },
+  {
+    "Country": "Sweden",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 19794
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 18309
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 18180
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 20013
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 18344
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 24097
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22457
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 23423
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 22909
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 20394
+  },
+  {
+    "Country": "United Kingdom",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 18341
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 25780
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 26196
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 30479
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 30785
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 28262
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 27663
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 34987
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 34588
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 27666
+  },
+  {
+    "Country": "Iceland",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 25559
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 37458
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 37958
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 27481
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 27932
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 40581
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 39549
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 48046
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 47919
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 39222
+  },
+  {
+    "Country": "Norway",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 34628
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 37707
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 38174
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 42911
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 41690
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 46031
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 44818
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 50115
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 47344
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 39839
+  },
+  {
+    "Country": "Switzerland",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 35182
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3097
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2984
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3123
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3227
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3700
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3636
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3653
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3800
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 4013
+  },
+  {
+    "Country": "Montenegro",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3420
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2147
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2316
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2331
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2343
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2715
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2664
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2823
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2856
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3011
+  },
+  {
+    "Country": "North Macedonia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2812
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2502
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2577
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2637
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2469
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2853
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2840
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2720
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2868
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 2950
+  },
+  {
+    "Country": "Serbia",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 2637
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "Less than 18 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3111
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "Less than 18 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3051
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 3914
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "From 18 to 24 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3628
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 4204
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "From 25 to 49 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 4135
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 4913
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "From 50 to 64 years",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 4617
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "65 years or over",
+    "Gender": "Males",
+    "Yearly Wage(EUR)": 4128
+  },
+  {
+    "Country": "Turkey",
+    "Age Group": "65 years or over",
+    "Gender": "Females",
+    "Yearly Wage(EUR)": 3778
+  }
+]
