@@ -107,8 +107,10 @@ const schema = new mongoose.Schema({
     type: Number
   },
   Satisfaction: {
-    type: String,
-    enum: ['very sad', 'kind of sad', 'neutral', 'kind of happy', 'very happy']
+    type: Number,
+    min: 1,
+    max: 5,
+    default: 3
   }
 });
 

@@ -65,4 +65,18 @@ router.get('/result/:id', (req, res, next) => {
     })
     .catch(error => next(error));
 });
+
+//Updating user info with satisfaction
+
+router.post('/result/:id', (req, res, next) => {
+  const resultId = req.params.id;
+  const satisfaction = req.body.smiley;
+
+  User.findByIdAndUpdate(resultId, { Satisfaction: satisfaction })
+    .then(() => {
+      res.redirect('/');
+    })
+    .catch(error => next(error));
+});
+
 module.exports = router;
