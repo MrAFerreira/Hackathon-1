@@ -9,6 +9,11 @@ body {
   line-height: 2;
   max-width: 40em; }
 
+button a {
+  text-decoration: none !important; }
+  button a:hover {
+    color: white; }
+
 a {
   color: inherit;
   text-decoration: none; }
@@ -139,8 +144,5 @@ form#smileys {
     color: red; }
     .mtt:hover span {
       color: #c0392b; }
-
-.btn btn-outline-secondary a {
-  text-decoration: none !important; }
 
 /*# sourceMappingURL=style.css.map */

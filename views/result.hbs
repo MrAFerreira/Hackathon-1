@@ -1,16 +1,16 @@
-<h5 style="font-weight:400">You think the gender pay gap in {{formResult.Country}} is: <b>xx%</b></h5>
+<h5 style="font-weight:400">You think the gender pay gap in {{formResult.Country}} is: <b>{{formResult.Perception}}%</b></h5>
 <br>
-<h5 style="font-weight:400">The real gender gap in {{formResult.Country}} is: <b>xx%</b></h5>
-<h5 style="font-weight:400">And in the European Union is: <b>xx%</b></h5>
+<h5 style="font-weight:400">The real gender pay gap in {{formResult.Country}} is: <b>{{countryGap}}%</b></h5>
+<h5 style="font-weight:400">The average gender gap in the EU is: <b>15.7%</b></h5>
 <br>
 <h5 style="font-weight:400">How do you feel about the gender pay gap in your country?</h5>
 <form id="smileys">
   <div>
-		<input type="radio" name="smiley" value="very sad" class="verysad">
-		<input type="radio" name="smiley" value="kind of sad" class="sad">
-		<input type="radio" name="smiley" value="neutral" class="neutral"  checked="checked">
-		<input type="radio" name="smiley" value="kind of happy" class="happy">
-		<input type="radio" name="smiley" value="very happy" class="veryhappy">
+		<input type="radio" name="smiley" placeholder="very sad" value="1" class="verysad">
+		<input type="radio" name="smiley" placeholder="kind of sad" value="1" class="sad">
+		<input type="radio" name="smiley" placeholder="neutral" value="1" class="neutral"  checked="checked">
+		<input type="radio" name="smiley" placeholder="kind of happy" value="1" class="happy">
+		<input type="radio" name="smiley" placeholder="very happy" value="1" class="veryhappy">
 		<br>
 		<div><p>I feel <span id="result">neutral</span> about it.</p></div>
 		<br>
@@ -21,7 +21,7 @@
 <script>const INPUTS = document.querySelectorAll('#smileys input');
 
 function updateValue(e) {
-	document.querySelector('#result').innerHTML = e.target.value;
+	document.querySelector('#result').innerHTML = e.target.placeholder;
 }
 
 INPUTS.forEach(el => el.addEventListener('click', (e) => updateValue(e)));</script>
