@@ -116,10 +116,22 @@
 <div class="form-group">
   <label for="Perception">Perception</label>
     <div class="slidecontainer">
-      <p>Custom range slider:</p>
-      <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+      <p>How do you perceive the gender gap in your country?</p>
+      <input type="range" min="1" max="100" value="50" class="slider" id="myRange" name="Perception">
+      <h6 id="slider-value"></h6>
+
     </div>
 </div>
 
 <button type="submit" class="btn btn-outline-secondary btn-form-submit">Submit</button>
 </form>
+
+<script>
+var slider = document.getElementById("myRange");
+var output = document.getElementById("slider-value");
+output.innerHTML = slider.value + '%';
+
+slider.oninput = function() {
+  output.innerHTML = this.value + '%';
+}
+</script>

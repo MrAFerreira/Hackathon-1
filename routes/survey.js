@@ -4,6 +4,7 @@ const { Router } = require('express');
 const router = new Router();
 const User = require('./../models/user');
 const data = require('./../Salaries_WD.json');
+const gap = require('./../gap.json');
 
 router.get('/', (req, res, next) => {
   res.render('survey');
@@ -24,8 +25,7 @@ router.post('/', (req, res, next) => {
     Perception
   })
     .then(newUser => {
-      console.log(newUser);
-      res.redirect(`/`);
+      res.redirect(`survey/result/${newUser._id}`);
     })
     .catch(error => next(error));
 });
@@ -35,10 +35,17 @@ router.get('/result/:id', (req, res, next) => {
   let formResult;
   let sameGenderWage;
   let otherGenderWage;
+  let countryGap;
   //console.log(resultId);
   User.findById(resultId)
     .then(user => {
       formResult = user;
+      gap.forEach(element => {
+        if (formResult.Country === element.country) {
+          countryGap = element.gap;
+        }
+      });
+      console.log(countryGap);
       data.forEach(element => {
         if (
           element.Gender === formResult.Gender &&
@@ -54,7 +61,7 @@ router.get('/result/:id', (req, res, next) => {
           otherGenderWage = element['Yearly Wage(EUR)'];
         }
       });
-      res.render('result', { sameGenderWage, otherGenderWage, formResult });
+      res.render('result', { sameGenderWage, otherGenderWage, formResult, countryGap });
     })
     .catch(error => next(error));
 });
