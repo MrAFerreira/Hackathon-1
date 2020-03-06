@@ -1,12 +1,33 @@
+<<<<<<< HEAD
 <form  method="POST">
-  
+=======
+<div class="survey">
 
+<form action="/" method="POST">
+>>>>>>> eb3a5e5e2d7b92e0aca12494ad1ac9e4558f4d72
+  
+ <div class="personal-details">
+
+  <div class="single-details">
   <label for="Gender">Gender</label>
   <select name="Gender" id="Gender">
     <option value="Females">Female</option>
     <option value="Males">Male</option>
     </select>
+  </div>
 
+<div class="single-details">
+
+  <label for="Age">Age</label>
+  <select name="Age" id="Age">
+    <option value="From 18 to 24">18-24</option>
+    <option value="From 25 to 49">25-49</option>
+    <option value="From 50 to 64">50-64</option>
+    <option value="65 years or over">65+</option>
+    </select>
+</div>
+  
+  <div class="single-details">
   <label for="Country">Country</label>
   <select name="Country" id="Country">
     <option value="Belgium">Belgium</option>
@@ -45,6 +66,7 @@
     <option value="Serbia">Serbia</option>
     <option value="Turkey">Turkey</option>
   </select>
+  </div>
 
   <label for="Age">Age</label>
   <select name="Age" id="Age">
@@ -81,6 +103,17 @@
     <option value="Other Sector">Other Sector</option>
   </select>
 
+  <label for="Wage">Anual Income</label>
+    <input type="number" name="Wage" id="Wage" placeholder="23000"/>
+
+  <label for="Managerial">Managerial Roles</label>
+    <select name="managerial" id="managerial">
+      <option value="0">Don't manage a team</option>
+      <option value="1">Manage a team between 1 to 5 people</option>
+      <option value="6">Manage a team between 6 to 10 people</option>
+      <option value="10">Manage more then 10 people</option>
+    </select>
+
   <label for="Education">Education</label>
     <select name="Education" id="Education">
       <option value="High school or less">High school or less</option>
@@ -106,4 +139,5 @@
 <button>Submit</button>
 </form>
 
+</div>
 

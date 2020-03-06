@@ -30,7 +30,7 @@ router.post('/', (req, res, next) => {
     .catch(error => next(error));
 });
 
-router.get('/result/:id', (req, res, next) => {
+router.get('/result', (req, res, next) => {
   const resultId = req.params.id;
   let result;
 

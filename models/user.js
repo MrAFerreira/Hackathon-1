@@ -49,7 +49,13 @@ const schema = new mongoose.Schema({
   },
   'Age Group': {
     type: String,
-    enum: ['Less than 18', '18-24 years old', '25-49 years old', '50-64 years old', '65+']
+    enum: [
+      'Less than 18 years',
+      'From 18 to 24 years',
+      'From 25 to 49 years',
+      'From 50 to 64 years',
+      '65 years or over'
+    ]
   },
   'Yearly Wage(EUR)': {
     type: Number
@@ -75,7 +81,7 @@ const schema = new mongoose.Schema({
       'Health Care & Social Assistance',
       'Arts, Entertainment & Recreation',
       'Accommodation & Food Services',
-      'Other'
+      'Other Sector'
     ]
   },
   Education: {
