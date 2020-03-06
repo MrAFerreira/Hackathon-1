@@ -4,6 +4,7 @@ const { Router } = require('express');
 const router = new Router();
 const User = require('./../models/user');
 const data = require('./../Salaries_WD.json');
+const gap = require('./../gap.json');
 
 router.get('/', (req, res, next) => {
   res.render('survey');
@@ -24,35 +25,44 @@ router.post('/', (req, res, next) => {
     Perception
   })
     .then(newUser => {
-      console.log(newUser);
-      res.redirect(`/`);
+      res.redirect(`survey/result/${newUser._id}`);
     })
     .catch(error => next(error));
 });
 
-router.get('/result', (req, res, next) => {
+router.get('/result/:id', (req, res, next) => {
   const resultId = req.params.id;
-  let result;
-
+  let formResult;
+  let sameGenderWage;
+  let otherGenderWage;
+  let countryGap;
+  //console.log(resultId);
   User.findById(resultId)
-    .then(document => {
-      result = document;
+    .then(user => {
+      formResult = user;
+      gap.forEach(element => {
+        if (formResult.Country === element.country) {
+          countryGap = element.gap;
+        }
+      });
+      console.log(countryGap);
+      data.forEach(element => {
+        if (
+          element.Gender === formResult.Gender &&
+          element['Age Group'] === formResult['Age Group'] &&
+          element.Country === formResult.Country
+        ) {
+          sameGenderWage = element['Yearly Wage(EUR)'];
+        } else if (
+          element.Gender !== formResult.Gender &&
+          element['Age Group'] === formResult['Age Group'] &&
+          element.Country === formResult.Country
+        ) {
+          otherGenderWage = element['Yearly Wage(EUR)'];
+        }
+      });
+      res.render('result', { sameGenderWage, otherGenderWage, formResult, countryGap });
     })
     .catch(error => next(error));
-
-  let specificComparison;
-
-  data.forEach(element => {
-    if (
-      element.Gender === result.Gender &&
-      element['Age Group'] === result['Age Group'] &&
-      element.Country === result.Country
-    ) {
-      return (specificComparison = element['Yearly Wage(EUR)']);
-    }
-  });
-  console.log(specificComparison);
-
-  res.render('result');
 });
 module.exports = router;

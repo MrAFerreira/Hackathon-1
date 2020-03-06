@@ -1,36 +1,27 @@
-<h4>You said that the Gender Gap in Portugal is: 67%</h4>
-<h3>But the reality is:</h3>
-<h4>Portugal:    75%</h4>
-<h4>EU:    80%</h4>
-
-<h3>for 65+:</h3>
-<h4>Portugal:    75%</h4>
-<h4>EU:    80%</h4>
-
-
-  <form id="smileys">
-    <div>
-	<input type="radio" name="smiley" value="very sad" class="verysad">
-	<input type="radio" name="smiley" value="sad" class="sad">
-	<input type="radio" name="smiley" value="neutral" class="neutral"  checked="checked">
-	<input type="radio" name="smiley" value="happy" class="happy">
-	<input type="radio" name="smiley" value="very happy" class="veryhappy">
-	<div>It looks like you're feeling <span id="result">neutral</span> about it!</div>
-  <button>Submit</button>
-    </div>
+<h5 style="font-weight:400">You think the gender pay gap in {{formResult.Country}} is: <b>{{formResult.Perception}}%</b></h5>
+<br>
+<h5 style="font-weight:400">The real gender pay gap in {{formResult.Country}} is: <b>{{countryGap}}%</b></h5>
+<h5 style="font-weight:400">The average gender gap in the EU is: <b>15.7%</b></h5>
+<br>
+<h5 style="font-weight:400">How do you feel about the gender pay gap in your country?</h5>
+<form id="smileys">
+  <div>
+		<input type="radio" name="smiley" placeholder="very sad" value="1" class="verysad">
+		<input type="radio" name="smiley" placeholder="kind of sad" value="1" class="sad">
+		<input type="radio" name="smiley" placeholder="neutral" value="1" class="neutral"  checked="checked">
+		<input type="radio" name="smiley" placeholder="kind of happy" value="1" class="happy">
+		<input type="radio" name="smiley" placeholder="very happy" value="1" class="veryhappy">
+		<br>
+		<div><p>I feel <span id="result">neutral</span> about it.</p></div>
+		<br>
+  	<button class="btn btn-outline-secondary">Submit</button>
+  </div>
 </form>
-
-
-
-
-
-
-
 
 <script>const INPUTS = document.querySelectorAll('#smileys input');
 
 function updateValue(e) {
-	document.querySelector('#result').innerHTML = e.target.value;
+	document.querySelector('#result').innerHTML = e.target.placeholder;
 }
 
 INPUTS.forEach(el => el.addEventListener('click', (e) => updateValue(e)));</script>
