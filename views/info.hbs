@@ -1,0 +1,89 @@
+<div class="form-group">
+    <label for="Country">Country</label>
+    <select class="form-control" name="Country" id="Country">
+      <option value="Belgium">Belgium</option>
+      <option value="Bulgaria">Bulgaria</option>
+      <option value="Czechia">Czechia</option>
+      <option value="Denmark">Denmark</option>
+      <option value="Germany">Germany</option>
+      <option value="Estonia">Estonia</option>
+      <option value="Ireland">Ireland</option>
+      <option value="Greece">Greece</option>
+      <option value="Spain">Spain</option>
+      <option value="France">France</option>
+      <option value="Croatia">Croatia</option>
+      <option value="Italy">Italy</option>
+      <option value="Cyprus">Cyprus</option>
+      <option value="Latvia">Latvia</option>
+      <option value="Lithuania">Lithuania</option>
+      <option value="Luxembourg">Luxembourg</option>
+      <option value="Hungary">Hungary</option>
+      <option value="Malta">Malta</option>
+      <option value="Netherlands">Netherlands</option>
+      <option value="Austria">Austria</option>
+      <option value="Poland">Poland</option>
+      <option value="Portugal">Portugal</option>
+      <option value="Romania">Romania</option>
+      <option value="Slovenia">Slovenia</option>
+      <option value="Slovakia">Slovakia</option>
+      <option value="Finland">Finland</option>
+      <option value="Sweden">Sweden</option>
+      <option value="United Kingdom">United Kingdom</option>
+      <option value="Iceland">Iceland</option>
+      <option value="Norway">Norway</option>
+      <option value="Switzerland">Switzerland</option>
+      <option value="Montenegro">Montenegro</option>
+      <option value="North Macedonia">North Macedonia</option>
+      <option value="Serbia">Serbia</option>
+      <option value="Turkey">Turkey</option>
+    </select>
+  </div>
+
+
+<canvas id="myChart" width="400" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script>
+
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'radar',
+    data: {
+        labels: ['25-34 Years Old','35-44 Years Old', '45-54 Years Old', '55-64 Years Old', '65+ Years Old'],
+        datasets: [{
+            label: 'Europe',
+            data: [9.53, 13.26, 14.23, 13.25, 15.25],
+            backgroundColor: [
+                'rgba(44, 130, 201, 0.2)',
+            ],
+            borderColor: [
+                'rgba(44, 130, 201, 1)',
+            ],
+            borderWidth: 2
+        },
+        {
+            label: 'Portugal',
+            data: [9.8, 14.5, 18, 23.3, 39.5],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+            ],
+            borderWidth: 2
+        }
+        ]
+    },
+    options: {
+      scale: {
+        angleLines: {
+            display: false
+        },
+        ticks: {
+            suggestedMin: -20,
+            suggestedMax: 60
+        }
+    }
+    }
+});
+</script>
