@@ -9,11 +9,22 @@ router.get('/', (req, res, next) => {
 });
 
 router.post('/', (req, res, next) => {
-  User.create()
+  const { Gender, Country, Age, Wage, Sector, Education, Role, Perception } = req.body;
 
-
-
-  res.redirect(`/result${._id}`, { info });
+  User.create({
+    Gender,
+    Country,
+    Age,
+    Wage,
+    Sector,
+    Education,
+    Role,
+    Perception
+  })
+    .then(newUser => {
+      res.redirect(`/result/${newUser._id}`);
+    })
+    .catch(error => next(error));
 });
 
 router.get('/result/:id', (req, res, next) => {
