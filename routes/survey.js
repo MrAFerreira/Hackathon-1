@@ -32,16 +32,13 @@ router.post('/', (req, res, next) => {
 
 router.get('/result/:id', (req, res, next) => {
   const resultId = req.params.id;
-  //let formResult;
+  let formResult;
+  let sameGenderWage;
+  let otherGenderWage;
   //console.log(resultId);
   User.findById(resultId)
     .then(user => {
-      let formResult;
-      return (formResult = user);
-    })
-    .then(formResult => {
-      let sameGenderWage;
-      let otherGenderWage;
+      formResult = user;
       data.forEach(element => {
         if (
           element.Gender === formResult.Gender &&
@@ -57,10 +54,8 @@ router.get('/result/:id', (req, res, next) => {
           otherGenderWage = element['Yearly Wage(EUR)'];
         }
       });
-      console.log(sameGenderWage, otherGenderWage);
+      res.render('result', { sameGenderWage, otherGenderWage, formResult });
     })
     .catch(error => next(error));
-
-  res.render('result');
 });
 module.exports = router;

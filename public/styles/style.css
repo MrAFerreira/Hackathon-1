@@ -1,4 +1,3 @@
-@charset "UTF-8";
 *, *:before, *:after {
   box-sizing: border-box; }
 
@@ -143,8 +142,5 @@ form#smileys {
 
 .btn btn-outline-secondary a {
   text-decoration: none !important; }
-
-.btn-form-submit  {
-  width: 50px; }
 
 /*# sourceMappingURL=style.css.map */
